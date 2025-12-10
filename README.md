@@ -1,1 +1,2 @@
-# PEMODELAN DERET WAKTU DATA KUNJUNGAN TELKOMSEL KE SEKOLAH MENGGUNAKAN ARIMA
+
+Pemodelan Deret Waktu Data Kunjungan Telkomsel Ke Sekolah Menggunakan ARIMA
